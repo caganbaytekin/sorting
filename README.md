@@ -1,2 +1,2 @@
-# bubblesorting in python
+# sorting in python
 laalala
